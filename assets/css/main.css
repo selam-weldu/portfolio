@@ -3837,3 +3837,9 @@ input, select, textarea {
 			text-align: c;
 			text-align: center;
 		}
+
+		.centered{
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
