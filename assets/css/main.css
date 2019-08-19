@@ -3791,7 +3791,7 @@ input, select, textarea {
 
 
 		.logo {
-			background-image: url(../../images/waterbnb.gif);
+			background-image: url(../../images/waterbnb.png);
 			background-size: cover;
 			border-radius: 100%;
 			color: #ffffff;
@@ -3807,7 +3807,7 @@ input, select, textarea {
 		}
 
 		.logo2 {
-			background-image: url(../../images/cravings.gif);
+			background-image: url(../../images/cravings.png);
 			background-size: cover;
 			border-radius: 100%;
 			color: #ffffff;
@@ -3823,7 +3823,7 @@ input, select, textarea {
 		}
 
 		.logo3 {
-			background-image: url(../../images/shift.gif);
+			background-image: url(../../images/shift.png);
 			background-size: cover;
 			border-radius: 100%;
 			color: #ffffff;
