@@ -2862,8 +2862,7 @@ input, select, textarea {
 /* Statistics */
 
 	.skill{
-		padding: 5px;
-		margin: 5px; 
+		margin: -7px;
 		font-size: 3rem;
 	}
 
